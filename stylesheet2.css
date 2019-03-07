@@ -1,0 +1,49 @@
+.first_class {
+    color: mediumseagreen;
+}
+
+.second_class {
+    background-color: darkturquoise;
+    width: 200px;
+}
+
+#first_ul:first-child {
+    border-top: solid 1px chartreuse;
+}
+
+#first_ul:last-child {
+    border-bottom: solid 5px skyblue dotted;
+}
+
+#link_3 {
+    color: red
+}
+
+#link_5 {
+    color: red;
+}
+
+#link_5:hover {
+    color:grey;
+}
+
+#second_id {
+    list-style: none;
+}
+
+#fifth_id {
+    list-style-type: none;
+}
+
+.form_class input[type=text]:focus {
+    background-color: grey;
+    color: green;
+}
+
+.form_class input[type=password]:focus {
+    color: white;
+}
+
+.form_class input[type=submit]:hover {
+    color:red
+}
