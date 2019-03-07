@@ -1,0 +1,23 @@
+.first_div {
+    width: 350px;
+    background-color: pink;
+    border-style: dotted;
+    border-color: brown;
+    border-width: 4px;
+}
+
+.second_div {
+    width: 450px;
+    font-family: 'Srisakdi', cursive;
+    background-color: yellow;
+    border-style: groove;
+    border-color: blueviolet;
+}
+
+#last_id {
+    width: 550px;
+    height: 200px;
+    background: forestgreen;
+    border-radius: 10px;
+    border-color: chartreuse;
+}
