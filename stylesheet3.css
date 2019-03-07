@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .first_div {
     width: 350px;
     background-color: pink;
@@ -20,4 +21,28 @@
     background: forestgreen;
     border-radius: 10px;
     border-color: chartreuse;
+=======
+.first_div {
+    width: 350px;
+    background-color: pink;
+    border-style: dotted;
+    border-color: brown;
+    border-width: 4px;
+}
+
+.second_div {
+    width: 450px;
+    font-family: 'Srisakdi', cursive;
+    background-color: yellow;
+    border-style: groove;
+    border-color: blueviolet;
+}
+
+#last_id {
+    width: 550px;
+    height: 200px;
+    background: forestgreen;
+    border-radius: 10px;
+    border-color: chartreuse;
+>>>>>>> 5e36ed5fe023ea975bcd251155d4cb437008ab10
 }

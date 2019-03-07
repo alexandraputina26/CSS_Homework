@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .link1_class {
     color: 	#8B0000
 }
@@ -46,3 +47,53 @@ img {
 p {
     font-family: 'ZCOOL QingKe HuangYou', cursive;
 }
+=======
+.link1_class {
+    color: 	#8B0000
+}
+.link2_class {
+    color: 	#8B0000
+}
+.link3_class {
+    color: 	#8B0000
+}
+
+
+#div_1 {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+#div_2 {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+#div_3 {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+#div_4 {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+
+a {
+    color:green;
+}
+body {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 15px;
+}
+
+p {
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+>>>>>>> 5e36ed5fe023ea975bcd251155d4cb437008ab10
