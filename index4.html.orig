@@ -1,0 +1,86 @@
+<<<<<<< HEAD
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Homework_CSS_part4</title>
+        <link rel="stylesheet" type="text/css" href="stylesheet4.css">
+        <link href="https://fonts.googleapis.com/css?family=Sniglet" rel="stylesheet">
+    </head>
+    <body>
+        <nav class="the_nav">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Taco Menu</a></li>
+                <li><a href="#">Draft list</a></li>
+                <li><a href="#">Hours</a></li>
+                <li><a href="#">Directions</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+
+        <section class="first_section">
+            The margin-left style for sections makes sure that is room for the nav. Otherwise the absolute and static elements would overlap.
+        </section>
+
+        <section class="second_section">
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard 
+            dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen 
+            book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
+            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with 
+            desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+        </section>
+
+        <section class="third_section">
+            Notice what happens when you resize your browser. It works nicely!
+        </section>
+        
+    </body>
+
+    <footer class="footer">
+        If you use a fixed hearder or footer, make sure there is room for it ! i put a margin-bottom on the body.
+    </footer>
+
+=======
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Homework_CSS_part4</title>
+        <link rel="stylesheet" type="text/css" href="stylesheet4.css">
+        <link href="https://fonts.googleapis.com/css?family=Sniglet" rel="stylesheet">
+    </head>
+    <body>
+        <nav class="the_nav">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Taco Menu</a></li>
+                <li><a href="#">Draft list</a></li>
+                <li><a href="#">Hours</a></li>
+                <li><a href="#">Directions</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+
+        <section class="first_section">
+            The margin-left style for sections makes sure that is room for the nav. Otherwise the absolute and static elements would overlap.
+        </section>
+
+        <section class="second_section">
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard 
+            dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen 
+            book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
+            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with 
+            desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+        </section>
+
+        <section class="third_section">
+            Notice what happens when you resize your browser. It works nicely!
+        </section>
+        
+    </body>
+
+    <footer class="footer">
+        If you use a fixed hearder or footer, make sure there is room for it ! i put a margin-bottom on the body.
+    </footer>
+
+>>>>>>> 8511b97ef0d1fb71cc45e08e819ad7feb69b328b
+</html>
