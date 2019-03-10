@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .first_div {
     width: 350px;
     background-color: pink;
@@ -21,7 +20,6 @@
     background: forestgreen;
     border-radius: 10px;
     border-color: chartreuse;
-=======
 .first_div {
     width: 350px;
     background-color: pink;
@@ -44,5 +42,4 @@
     background: forestgreen;
     border-radius: 10px;
     border-color: chartreuse;
->>>>>>> 5e36ed5fe023ea975bcd251155d4cb437008ab10
 }
